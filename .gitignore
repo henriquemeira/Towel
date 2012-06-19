@@ -4,3 +4,6 @@ javadoc
 *.zip
 bin
 
+/nbproject/private/
+/build/
+/dist/
